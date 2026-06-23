@@ -8,3 +8,24 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# Maven build — jamais commiter ça
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# CRITIQUE : NE JAMAIS commiter ce fichier (mots de passe DB dedans)
+hibernate.cfg.xml
+
+# Système
+.DS_Store
+Thumbs.db
