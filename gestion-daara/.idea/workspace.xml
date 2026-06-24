@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a60f21d-bd03-4a3f-8233-73503de4f81e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion-daara.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion-daara.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion-daara.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/model/models/Classe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/model/models/Maitre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/model/models/Niveau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/model/models/Progression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/model/models/Talibe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/util/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3FSzDabLISAp91Jqw5trWBGi8gr" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/entites-jpa&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Desktop/daara-app/gestion-daara/pom.xml&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="gestion-daara" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a60f21d-bd03-4a3f-8233-73503de4f81e" name="Changes" comment="" />
+      <created>1782083140234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782083140234</updated>
+      <workItem from="1782083141901" duration="1490000" />
+      <workItem from="1782153383587" duration="3726000" />
+      <workItem from="1782303442979" duration="117000" />
+      <workItem from="1782303714063" duration="3834000" />
+      <workItem from="1782310710295" duration="428000" />
+      <workItem from="1782311185497" duration="280000" />
+      <workItem from="1782311529827" duration="572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
