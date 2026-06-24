@@ -22,7 +22,6 @@ public class Classe {
 
     @Id
     private String code;
-
     private String libelle;
 
     @Enumerated(EnumType.STRING)

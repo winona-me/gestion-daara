@@ -1,0 +1,7 @@
+sn\l2gl\warriors\model\models\Classe.class
+sn\l2gl\warriors\model\models\Talibe.class
+sn\l2gl\warriors\model\models\Niveau.class
+sn\l2gl\warriors\model\models\Progression.class
+sn\warriors\App.class
+sn\l2gl\warriors\util\HibernateUtil.class
+sn\l2gl\warriors\model\models\Maitre.class

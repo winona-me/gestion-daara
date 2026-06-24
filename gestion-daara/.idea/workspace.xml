@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a60f21d-bd03-4a3f-8233-73503de4f81e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestion-daara.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestion-daara.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gestion-daara.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/model/models/Classe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/model/models/Maitre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/model/models/Niveau.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/model/models/Progression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/model/models/Talibe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/util/HibernateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/model/models/Classe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sn/l2gl/warriors/model/models/Classe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +66,7 @@
       <workItem from="1782303714063" duration="3834000" />
       <workItem from="1782310710295" duration="428000" />
       <workItem from="1782311185497" duration="280000" />
-      <workItem from="1782311529827" duration="572000" />
+      <workItem from="1782311529827" duration="1120000" />
     </task>
     <servers />
   </component>
